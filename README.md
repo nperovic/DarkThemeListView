@@ -6,9 +6,8 @@ An AutoHotkey script that applies a dark theme to the `ListView` control. This s
 - Compatible with [AutoHotkey v2.1-alpha.9](https://github.com/AutoHotkey/AutoHotkeyDocs/tree/alpha) or later.
 - Learn more about the ahk v2.1-alpha: [Click here](https://github.com/AutoHotkey/AutoHotkeyDocs/tree/alpha)
 
-![UIAViewer.ahk applied dark theme](https://github.com/nperovic/DarkThemeListView/assets/122501303/c42eb0ef-810f-42b9-9c75-256f4a85c138)
+![UIAViewer.ahk applied dark theme](https://github.com/nperovic/DarkThemeListView/assets/122501303/6f84f932-ca64-45d7-853c-939e33b8fea5)
 
-https://github.com/nperovic/DarkThemeListView/assets/122501303/6ec896eb-587a-4be3-bccc-9cca64b1246e
 
 ## Usage
 1. Download the [DarkListView.ahk](DarkListView.ahk) file.
